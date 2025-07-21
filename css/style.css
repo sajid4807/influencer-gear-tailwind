@@ -25,6 +25,10 @@
 .font-rufina{
     font-family: var(--font4);
 }
+.box-shadow{
+    box-shadow: 0 0 40px 0 rgba(0, 0, 0, 0.15);
+    background: #fff;
+}
 /* .container{
     width: 1224px;
     margin: 0 auto;
